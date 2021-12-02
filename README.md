@@ -16,6 +16,6 @@ To Setup:
 2. Delete 'Package-lock.json'
 3. Delete 'yarn.lock'
 4. Delete 'node_modules'
-5. Check if you have '.env' file - if not create one and add "SKIP_PREFLIGHT_CHECK=true"
+5. Check if you have '.env' file - if not create one and add "SKIP_PREFLIGHT_CHECK=true" in it and save.
 6. Go to terminal and input 'npm install' -> 'yarn install'
 7. You are ready to go -> 'yarn start'
