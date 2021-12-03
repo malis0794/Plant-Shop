@@ -13,7 +13,7 @@ To Do:
 
 To Setup:
 1. Clone repo.
-2. Delete 'Package-lock.json'
+2. Delete 'package-lock.json'
 3. Delete 'yarn.lock'
 4. Delete 'node_modules'
 5. Check if you have '.env' file - if not create one and add "SKIP_PREFLIGHT_CHECK=true" in it and save.
